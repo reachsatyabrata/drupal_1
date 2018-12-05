@@ -40,6 +40,7 @@
             "Type": "String"
         },
         "SiteEMail": {
+            "Default": "reachsatyabrata@gmail.com",
             "Description": "EMail for site adminitrator",
             "Type": "String"
         },
